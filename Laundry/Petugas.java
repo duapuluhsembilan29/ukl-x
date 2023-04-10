@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Fonda
+ * @author alkaa
  */
 public class Petugas implements User{
     private ArrayList<String> namaPetugas = new ArrayList<String>();
